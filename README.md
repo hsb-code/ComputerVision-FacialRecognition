@@ -1,4 +1,4 @@
-This is a facial recognition project using python library "Facial Recognition" and OpenCV.
+This is a facial recognition project using python library "Facial Recognition" and "OpenCV".
 The project has been done in two modes. One using builtin laptop cam.
 The file named "main.py" is code for using builtin laptop camera.
 The other mode is using esp32-cam.
