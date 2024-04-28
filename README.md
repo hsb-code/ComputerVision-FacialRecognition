@@ -6,5 +6,5 @@ You can access that code via file "espcam.py".
 Code for arduino ide to access espcam is also provided with helping material.
 The other necessary code files are also uploaded.
 You can make your full fledged facial recognition system and use it at any required application!
-I have provided the graphics as well.
 Feel free to contact if you commit any problem.
+We have used that project in home security system application.
